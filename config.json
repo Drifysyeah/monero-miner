@@ -1,0 +1,12 @@
+{
+    "server_url": "https://pericarpic-georgann-wryly.ngrok-free.dev",
+    "machine_id": null,
+    "wallet": "45yEA7TdfM1ZpzoiLKwpvLN6aMymmSsDzeTjc8Qav5ktEQMH6bJcD9WUbLRN4Cu6vXCyczXNVy4mhN6jMH25jaEtR719JVi",
+    "runtime_limit": null,
+    "temp_pair": {
+        "enabled": false
+    },
+    "runner": {
+        "background_running": false
+    }
+}
